@@ -1,0 +1,28 @@
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\GiyimMagazaOtomasyonu.exe.config
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\GiyimMagazaOtomasyonu.exe
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\GiyimMagazaOtomasyonu.pdb
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Form1.resources
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Properties.Resources.resources
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.csproj.GenerateResource.Cache
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.exe
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.pdb
+C:\Users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\MySql.Data.xml
+C:\Users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Personel.resources
+C:\Users\blgn6\onedrive\belgeler\visual studio 2017\Projects\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Yönetici.resources
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\GiyimMagazaOtomasyonu.exe.config
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\GiyimMagazaOtomasyonu.exe
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\GiyimMagazaOtomasyonu.pdb
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\bin\Debug\MySql.Data.xml
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Form1.resources
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Personel.resources
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Properties.Resources.resources
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.Yönetici.resources
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.exe
+C:\Users\blgn6\Desktop\VERİTABANI\GiyimMagazaOtomasyonu\GiyimMagazaOtomasyonu\obj\Debug\GiyimMagazaOtomasyonu.pdb
